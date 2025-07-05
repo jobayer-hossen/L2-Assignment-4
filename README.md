@@ -9,7 +9,7 @@ This system allows users to manage books, handle borrow requests, and track borr
 
 ##  All Link
 
-#### Frontend Live Link :  
+#### Frontend Live Link :  https://l2-assignment-4-iota.vercel.app/
 #### Backend Live API Link :  https://l2-assignment-3-psi.vercel.app/
 #### Backend Repository Link : https://github.com/jobayer-hossen/L2-Assignment-3
 
@@ -103,13 +103,13 @@ This system allows users to manage books, handle borrow requests, and track borr
 ### 1. Clone the Frontend Repository
 
 ```bash
-git clone https://github.lol
+git clone https://github.com/jobayer-hossen/L2-Assignment-4
 ```
 
 ### 2. Go Inside The File 
 
 ```bash
-cd B5-A4-Frontend
+cd L2-Assignment-4
 ```
 
 ### 3. Install The Dependencies 
